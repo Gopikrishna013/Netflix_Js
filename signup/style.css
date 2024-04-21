@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.login{
+    color: white;
+    border: 2px black solid;
+    width: 450px;
+    background-color: white;
+    background: rgb(9,9,121);
+    background: linear-gradient(90deg, rgba(9,9,121,1) 0%, rgba(8, 8, 8, 0.7) 1%);  
+    border-radius: 40px;
+}
+/* .p1{
+    margin-top: 40px;
+}
+.page{
+    margin: 40px;
+    padding: 20px;
+} */
+body{
+    /* background: rgb(9,9,121); */
+    /* background: linear-gradient(90deg, rgba(9,9,121,1) 0%, rgba(119, 174, 67, 0.6) 1%); */
+
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/9c5457b8-9ab0-4a04-9fc1-e608d5670f1a/710d74e0-7158-408e-8d9b-23c219dee5df/IN-en-20210719-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+    
+}

@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(42, 42, 108);
+    color: white;
+
+
+}
+img {
+    height: 300px;
+    width: 170px;
+}
+.movieCard:hover {
+
+    transform: translateY(20px);
+    
+}
+.movieCard {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 10px;
+    display: inline;
+    flex: 0 0 14.555555%;
+    margin-right: 10px;
+    margin-top: 47px;
+    border: 1px solid rgb(217, 214, 214)
+
+}
+.zonere {
+    font-size: 5px;
+}
+
+.movieNameStyle {
+    font-size: 15px;
+    margin: 10px 0 10px 0;
+}
+.movieNameStyle:hover{
+    color: darkorange;
+}
+.zonerStyle:hover{
+    color: lawngreen;
+}
+.parent-list {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0;
+    margin: 20px;
+}
